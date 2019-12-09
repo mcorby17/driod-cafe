@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Droid Cafe Text Fields</string>
+    <string name="textIntro_text">Droid Shiz</string>
+    <string name="donut_image_desc">oh my GOD it\'s a freaking DELICIOUS DONUT</string>
+    <string name="ice_cream_desc">Basically as good as a donut. It just doesn\'t have a hole in it.</string>
+    <string name="froyo_image_desc">Froyo? Dude. No.</string>
+    <string name="donut_order_message">DOOOOOONUUUUUUUUUT!!</string>
+    <string name="ice_cream_order_message">Oh yeah that\'s some cool tasty stuff</string>
+    <string name="froyo_order_message">Reach out to your closest psychiatric ward at 1-800-GET-HELP</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
